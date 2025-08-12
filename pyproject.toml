@@ -1,0 +1,4 @@
+[project.scripts]
+releaf-tune = "tuning.cli:main"
+releaf-embed = "tuning.embeddings:main"
+releaf-eval = "tuning.evaluate:main"    
