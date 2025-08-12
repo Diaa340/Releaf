@@ -1,0 +1,11 @@
+emb_dir: "Releaf_Embeddings_CLIP"
+gpu: "2"
+
+best_params:
+  outlier_frac: 0.2
+  min_cluster_size: 5
+  min_samples: 5
+  sim_thresh_merge: 0.7
+  sim_thresh_outliers: 0.8
+  sim_thresh_reassign: 0.7
+  N_ITER: 2
