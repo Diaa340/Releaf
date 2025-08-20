@@ -114,12 +114,16 @@ python -m releaf_tuning.lhs_search_procedure --config configs/default.yaml --sam
 If you use this repository, please cite our paper:
 
 ```bibtex
-@article{abuhani2025unsupervised,
-  title={Unsupervised Urban Tree Biodiversity Mapping from Street-Level Imagery Using Spatially Aware Visual Clustering},
-  author={Abuhani, Diaa Addeen and et al.},
-  journal={},
-  year={2025}
+@misc{abuhani2025unsupervisedurbantreebiodiversity,
+      title={Unsupervised Urban Tree Biodiversity Mapping from Street-Level Imagery Using Spatially-Aware Visual Clustering}, 
+      author={Diaa Addeen Abuhani and Marco Seccaroni and Martina Mazzarello and Imran Zualkernan and Fabio Duarte and Carlo Ratti},
+      year={2025},
+      eprint={2508.13814},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.13814}, 
 }
+```
 
 
 
