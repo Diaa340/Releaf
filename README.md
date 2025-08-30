@@ -60,7 +60,7 @@ scripts/ # Optional helper scripts
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/Diaa340/Releaf.git
 cd releaf
 
 # Create and activate a virtual environment
