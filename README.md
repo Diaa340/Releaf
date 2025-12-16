@@ -41,6 +41,7 @@ This framework addresses those limitations by:
   - Separate **Latin Hypercube Sampling (LHS)** search procedure  
   - Weighted scoring combining diversity, coverage, and accuracy metrics
 
+- The spatial and visual embeddings extracted in this study can be accessed through this [link]([https://your-website-url.com](https://polimi365-my.sharepoint.com/:f:/g/personal/10929129_polimi_it/IgCORZW_lnVhT6s33grJlufTAaqoEmUm3qDwk8_112o8xfE?e=fzrzJB))
 ---
 
 ## Repository Structure
